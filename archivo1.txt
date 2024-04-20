@@ -1,2 +1,4 @@
 creado archivo1
 modificando por primera vez ela rchivo
+modificando por segunda vez archivo1.txt
+
